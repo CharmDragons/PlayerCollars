@@ -1,8 +1,8 @@
 {
   "itemGroup.playercollars": "Player Collars",
   "item.playercollars.collar": "Collar",
-  "item.playercollars.collar.paw_color": "Paw: #%s",
-  "item.playercollars.collar.paw": "Paw",
+  "item.playercollars.collar.paw_color": "Bell: #%s",
+  "item.playercollars.collar.paw": "Bell",
   "item.playercollars.collar.owner": "Owner: %s",
   "item.playercollars.collar.become_owner": "Become Owner",
   "item.playercollars.collar.remove_owner": "Remove Owner",

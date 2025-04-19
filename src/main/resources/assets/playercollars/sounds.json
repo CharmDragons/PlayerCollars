@@ -8,5 +8,10 @@
     "category": "player",
     "subtitle": "sound.playercollars.clicker_off",
     "sounds": ["playercollars:clicker_off"]
+  },
+  "collar_bell": {
+    "category": "player",
+    "subtitle": "sound.playercollars.collar_bell",
+    "sounds": ["playercollars:collar_bell"]
   }
 }

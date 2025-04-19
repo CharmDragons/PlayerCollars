@@ -8,6 +8,8 @@
   },
   "refmap": "PlayerCollars-refmap.json",
   "mixins": [
+    "EntityMixin",
+    "LivingEntityMixin",
     "MixinEnchantmentTarget",
     "MixinPlayerEntity",
     "MixinServerPlayerEntity",

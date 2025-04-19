@@ -26,6 +26,8 @@ public class PlayerCollarsMod implements ModInitializer {
 			SoundEvent.of(new Identifier(MOD_ID, "clicker_on")));
 	public static final SoundEvent CLICKER_OFF = Registry.register(Registries.SOUND_EVENT, new Identifier(MOD_ID, "clicker_off"),
 			SoundEvent.of(new Identifier(MOD_ID, "clicker_off")));
+	public static final SoundEvent COLLAR_BELL = Registry.register(Registries.SOUND_EVENT, new Identifier(MOD_ID, "collar_bell"),
+			SoundEvent.of(new Identifier(MOD_ID, "collar_bell")));
 
 	public static ItemStack filterStacksByOwner(List<Pair<SlotReference, ItemStack>> stacks, UUID plr) {
 		for (Pair<SlotReference, ItemStack> p : stacks) {
